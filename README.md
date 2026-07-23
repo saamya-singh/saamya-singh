@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**saamya-singh/saamya-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering (AI & ML) student who enjoys building things across ML,AI, software  — and figuring out how they connect.
 
-Here are some ideas to get you started:
+I like combining data-driven thinking with hands-on systems, from predictive models to real-time embedded devices.
+ Currently Working On:
+- Heart Disease Risk Prediction (ML)
+- IoT-based Automated Systems (ESP32 + Blynk Cloud)
+- Strengthening DSA fundamentals 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- Python (Pandas, Scikit-learn)
+- C++, Java, SQL
+- Git & GitHub, Arduino IDE, Blynk IoT Cloud
+
+🏸 Off-screen: national-level badminton player, and genuinely curious about psychology , personal growth and upcoming tech.
