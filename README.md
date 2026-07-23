@@ -21,4 +21,4 @@ I like combining data-driven thinking with hands-on systems, from predictive mod
 -GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saamya-singh&show_icons=true&theme=radical)
 
-🏸 Off-screen: national-level badminton player, and genuinely curious about psychology , personal growth and upcoming tech.
+Off-screen: national-level badminton player, and genuinely curious about psychology , personal growth and upcoming tech.
